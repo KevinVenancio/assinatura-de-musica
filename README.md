@@ -26,5 +26,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 📱 Versão mobile
 
 <p align="center">
-  <img alt="image_mobile" src="arquivos/page-mobile.png" width="70%" height="50%">
+  <img alt="image_mobile" src="arquivos/page-mobile.png">
 </p>
